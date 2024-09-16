@@ -1,30 +1,30 @@
 # Flight-Delay-Analysis---2015
 
 ### I'm excited to share my latest project: an in-depth analysis of 2015 flight delay data in the US, conducted in collaboration with ITI. By analyzing over 6 million flight records, I've unearthed valuable insights that can benefit both airlines and travelers.
+## Key Questions Explored:
 
-#### 1-Key Questions Explored:
-#### 2-How do weekday and weekend flight statistics compare?
-#### 3-What are the monthly cancellation trends for JetBlue Airways?
-#### 4-How do delays vary by week, state, city, and airline?
-#### 5-Which airlines experience no departure/arrival delays within the 2500-3000 distance range?
-#### 6-What are the flight counts for each airline?
-#### 7-What are the quarterly trends in flight cancellations?
-#### 8-How are flight counts distributed among different delay types?
-#### 9-How does flight volume vary by month and day of the week?
-#### 10-What percentage of flights experienced departure delays in 2015, and what was the average delay time?
-#### 11-How does the percentage of delayed flights change throughout the year, particularly for flights departing from Boston (BOS)?
-#### 12-How many flights were cancelled in 2015, and what percentage were due to weather vs. airline/carrier issues?
-#### 13-Which airlines demonstrate the highest and lowest reliability in terms of on-time departures?
+#### 1-How do weekday and weekend flight statistics compare?
+#### 2-What are the monthly cancellation trends for JetBlue Airways?
+#### 3-How do delays vary by week, state, city, and airline?
+#### 4-Which airlines experience no departure/arrival delays within the 2500-3000 distance range?
+#### 5-What are the flight counts for each airline?
+#### 6-What are the quarterly trends in flight cancellations?
+#### 7-How are flight counts distributed among different delay types?
+#### 8-How does flight volume vary by month and day of the week?
+#### 9-What percentage of flights experienced departure delays in 2015, and what was the average delay time?
+#### 10-How does the percentage of delayed flights change throughout the year, particularly for flights departing from Boston (BOS)?
+#### 11-How many flights were cancelled in 2015, and what percentage were due to weather vs. airline/carrier issues?
+#### 12-Which airlines demonstrate the highest and lowest reliability in terms of on-time departures?
 ## Insights Revealed:
 
-#### .In 2015, a total of 5,819,079 flights were recorded, with significant variation between weekend and weekday operations.
-#### .JetBlue experienced its highest cancellations in June (55), with none in January.
-#### .Southwest Airlines operated the most flights, while Virgin America had the fewest.
-#### .Arrival and departure delays were prevalent, highlighting the need for improvement in minimizing these occurrences.
+#### 1-In 2015, a total of 5,819,079 flights were recorded, with significant variation between weekend and weekday operations.
+#### 2-JetBlue experienced its highest cancellations in June (55), with none in January.
+#### 3-Southwest Airlines operated the most flights, while Virgin America had the fewest.
+#### 4-Arrival and departure delays were prevalent, highlighting the need for improvement in minimizing these occurrences.
 ## Tools Utilized:
 
-#### .Power BI
-#### .Figma
+#### 1-Power BI
+#### 2-Figma
 ## Links for Further Exploration:
 
 #### 🔗 [Source]: https://www.kaggle.com/datasets/usdot/flight-delays
